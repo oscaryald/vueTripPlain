@@ -1,0 +1,39 @@
+{
+  "search-car": [
+    {
+      "site_link":"<site-link>",
+      "trip_id":"<trip-id>",
+      "departure_date":"дата час відправлення",
+      "departure_city":"місто відправлення",
+      "arrival_city":"місто прибуття",
+      "arrival_date":"дата час прибутя",
+      "price":"ціна",
+      "seats": "місць",
+      "seats_left": "залишилось місць",
+      "duration": "тривалість",
+      "car":{
+        "make":"HYUNDAI",
+        "model":"SOLARIS",
+        "comfort":null,
+        "star":3
+      },
+      "driver": {
+        "photo":null,
+        "name":null,
+        "age":null,
+        "rating":null,
+        "rating_count":null
+      },
+      "people":[],
+      "total_peoples":0,
+      "friends_count":0,
+      "is_my":false
+    }
+  ],
+  "search-city": [
+    "Lviv",
+    "Kyiv",
+    "Odessa",
+    "Lodygin"
+  ]
+}
